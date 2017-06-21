@@ -1,0 +1,42 @@
+body {
+    background-color: #2F1B41;
+}
+
+#quoteDisplay {
+    margin: 12% 30% auto 30%;
+    padding: 2% 2% 4% 2%;
+    background-color: #F2F2F2;
+}
+
+#qt {
+    color: #9F1E49;
+    font-size: 48px;
+    margin-right: 4px;
+}
+
+i {
+    margin: 0;
+}
+
+#quote {
+    font-size: 18px;
+    text-align: right;
+    margin: 2%;
+}
+
+#author {
+    display: block;
+    text-align: right;
+    font-size: 24px;
+}
+
+button {
+    margin: auto;
+    background-color: #BE3144;
+    float: right;
+    margin-left: 3px;
+}
+
+
+/*https://codepen.io/DapperDad/pen/NxbOaL read it*/
+/*https://quotesondesign.com/api-v4-0/*/
